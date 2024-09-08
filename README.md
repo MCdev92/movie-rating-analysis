@@ -8,7 +8,6 @@ This project performs an analysis of movie ratings using the [MovieLens 100K Dat
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
 - [Features](#features)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -49,7 +48,7 @@ pip install pandas matplotlib seaborn openpyxl numpy
 
 1. **Set up the environment**: If you are using a virtual environment, activate it.
    ```bash
-   venv\Scriptsctivate   # For Windows
+   virtualenv venv   # For Windows
    ```
    
 2. **Run the script**: Execute the Python script to perform the analysis.
